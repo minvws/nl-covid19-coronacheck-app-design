@@ -24,7 +24,7 @@ Designs
 * Versie 0.1 - week 4 (link volgt later)
 
 ## Hoe kun je bijdragen?
-Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het #coronacheck kanaal.
+Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [#coronacheck](https://codefornl.slack.com/messages/coronacheck) kanaal.
 Je kunt actief bijdragen aan het ontwerp via comments of een eigen ontworpen suggestie. Je hebt hiervoor toegang nodig tot de read-only Figma. Stuur een bericht aan Eva van Sloten op de [CodeForNL Slack](https://doemee.codefor.nl/) met je e-mailadres om toegang te vragen.
 Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen.
 
