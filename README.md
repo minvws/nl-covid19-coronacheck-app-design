@@ -13,7 +13,7 @@ Gebruiksonderzoek (links volgen later)
 * Usability & Experience test Scanner - week 7
 * Usability & Experience test versie 0.3 - week 7
 * Usability & Experience test versie 0.2 - week 5
-* Usability & Experience test versie 0.1 - week 4
+* [Usability & Experience test versie 0.1 - week 4](https://corona.sticktailapp.com/study-share/zWteAhDoUQzG/coronatester-conceptvalidatie-burger-app-663/)
 * Contextueel onderzoek verifier - week 4
 
 Designs
