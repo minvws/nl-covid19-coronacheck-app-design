@@ -3,14 +3,16 @@ Het ontwikkelen en ontwerpen van de Nederlandse COVID-19 testbewijs app CoronaCh
 
 ## Belangrijk:
 Neem voor het geven van feedback of het stellen van een vraag, de tijd om de gedeelde documenten en ontwerpen door te nemen
-We doen onze uiterste best om alles te lezen, suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op ingaan
-Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden
+We doen onze uiterste best om alles te lezen, suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op ingaan.
+Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden.
 
 ## Overzicht
 
 Gebruiksonderzoek (links volgen later)
-* Usability & Experience test versie 0.4 - week 11
-* Fieldlab pilot, Observaties en Enquete - week 10
+* Usertest Ouderen versie 0.4 - week 13
+* [Fieldlab interland pilot, Observaties en Enquete - week 12](https://corona.sticktailapp.com/study/coronacheck-fieldlab-observaties-enquete-interland-27-maart-834/)
+* [Usability & Experience test versie 0.4 - week 11](https://corona.sticktailapp.com/study-share/VhhRJraLHoyr/coronacheck-usability-experience-test-versie-04-997/)
+* [Fieldlab festival pilot, Observaties en Enquete - week 10](https://corona.sticktailapp.com/study-share/RmgExjBYPzkI/coronacheck-fieldlab-observaties-enquete-2526-maart-402/)
 * Usability & Experience test Scanner - week 7
 * [Usability & Experience test versie 0.3 - week 7](https://corona.sticktailapp.com/study-share/Evux36JwKd1T/coronacheck-ux-test-619/)
 * [Usability & Experience test versie 0.2 - week 5](https://corona.sticktailapp.com/study-share/nOZMXWo0pdO6/coronacheck-conceptvalidatie-930/)
