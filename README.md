@@ -18,6 +18,7 @@ Gebruiksonderzoek (links volgen later)
 * [Contextueel onderzoek verifier - week 4](https://corona.sticktailapp.com/study-share/L3uYJ1ReAUca/coronacheck-scanner-contextueel-concept-onderzoek-verifier-866/)
 
 Designs
+* [Versie 0.6 - Week 14](https://www.figma.com/file/qOq3BZubHGBNpTtlkavbgn/GitHub_CoronaCheck_iOS_20210416?node-id=171%3A15165)
 * [Versie 0.5](https://www.figma.com/file/WlrRPTaZfoEjsbsNDJONYE/210309_CoronaCheck-post-fieldlab?node-id=0%3A1) - week 9
 * [Versie 0.4 (Fieldlab pilot)](https://www.figma.com/file/4uqjwjy1PgxigtgqTbxFuM/210309_CoronaCheck---Fieldlab?node-id=0%3A1) - week 8
 * Versie 0.3 - week 6 (link volgt later)
