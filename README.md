@@ -10,7 +10,7 @@ Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden.
 
 Gebruiksonderzoek (links volgen later)
 * Usertest Ouderen versie 0.4 - week 13
-* [Fieldlab interland pilot, Observaties en Enquete - week 12](https://corona.sticktailapp.com/study/coronacheck-fieldlab-observaties-enquete-interland-27-maart-834/)
+* [Fieldlab interland pilot, Observaties en Enquete - week 12](https://corona.sticktailapp.com/study-share/nE4zzD22wWmU/coronacheck-fieldlab-observaties-enquete-interland-27-maart-834/)
 * [Usability & Experience test versie 0.4 - week 11](https://corona.sticktailapp.com/study-share/VhhRJraLHoyr/coronacheck-usability-experience-test-versie-04-997/)
 * [Fieldlab festival pilot, Observaties en Enquete - week 10](https://corona.sticktailapp.com/study-share/RmgExjBYPzkI/coronacheck-fieldlab-observaties-enquete-2526-maart-402/)
 * Usability & Experience test Scanner - week 7
