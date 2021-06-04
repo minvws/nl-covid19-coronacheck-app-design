@@ -9,7 +9,8 @@ Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden.
 ## Overzicht
 
 Gebruiksonderzoek (links volgen later)
-* 
+
+* [Usertest Laaggeletterden - week 20](http://corona.sticktailapp.com/study-share/emSaiNGXhZKI/coronacheck-usability-experience-test-laaggeletterden-349/)
 * Pilots - Week 16 tm week 20
 * Usability & Experience test iteratie versie 2.0 - Week 18
 * [Usertest Blinden en slechtzienden versie - week 18](https://corona.sticktailapp.com/study-share/tE4fSUdNVur5/coronacheck-usability-experience-test-blinden-en-slechtzienden-671/)
