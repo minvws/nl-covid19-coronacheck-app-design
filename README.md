@@ -10,8 +10,8 @@ Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden.
 
 Gebruiksonderzoek
 
-* [Usertest digitaal minder vaardigen - Week 32](6. DPC_CoronaCheck_Rapport_Ronde6_Digitaal minder vaardigen.pdf)
-* [Usertest visueel & motorisch beperkten - Week 29](5. DPC_CoronaCheck_Rapport_Ronde5_Visueel:Motorischbeperkten.pdf)
+* [Usertest digitaal minder vaardigen - Week 32](6.%20DPC_CoronaCheck_Rapport_Ronde6_Digitaal minder vaardigen.pdf)
+* [Usertest visueel & motorisch beperkten - Week 29](5.%20DPC_CoronaCheck_Rapport_Ronde5_Visueel:Motorischbeperkten.pdf)
 * [Usertest laaggeletterden & licht verstandelijk beperkten - Week 26](4.DPC_CoronaCheck_Rapport_Ronde4_Laaggeletterden.pdf)
 * [Usability & experience test iteratie versie 2.0.4 - Week 25](http://corona.reveall.co/study-share/dLmilfzMuULq/coronacheck-usability-experience-test-versie-204-171/)
 * [Usability & experience test iteratie versie 2.0.3 - Week 23](http://corona.reveall.co/study-share/PH86LUMVWzGb/coronacheck-usability-experience-test-versie-203-819/)
