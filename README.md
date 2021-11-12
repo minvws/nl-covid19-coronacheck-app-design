@@ -8,8 +8,13 @@ Na de lancering van de app zal het ontwerp minder vaak gewijzigd worden.
 
 ## Overzicht
 
-Gebruiksonderzoek (links volgen later)
+Gebruiksonderzoek
 
+* [Usertest digitaal minder vaardigen - Week 32](Rapporten/6.DPC_CoronaCheck_Rapport_Ronde6_DigitaalMinderVaardigen.pdf)
+* [Usertest visueel & motorisch beperkten - Week 29](Rapporten/5.DPC_CoronaCheck_Rapport_Ronde5_Visueel:Motorischbeperkten.pdf)
+* [Usertest laaggeletterden & licht verstandelijk beperkten - Week 26](Rapporten/4.DPC_CoronaCheck_Rapport_Ronde4_Laaggeletterden:verstandelijkbeperkten.pdf)
+* [Usability & experience test iteratie versie 2.0.4 - Week 25](http://corona.reveall.co/study-share/dLmilfzMuULq/coronacheck-usability-experience-test-versie-204-171/)
+* [Usability & experience test iteratie versie 2.0.3 - Week 23](http://corona.reveall.co/study-share/PH86LUMVWzGb/coronacheck-usability-experience-test-versie-203-819/)
 * [Usertest Laaggeletterden - week 20](http://corona.sticktailapp.com/study-share/emSaiNGXhZKI/coronacheck-usability-experience-test-laaggeletterden-349/)
 * Pilots - Week 16 tm week 20
 * [Usability & Experience test iteratie versie 2.0.2 - Week 18](http://corona.sticktailapp.com/study-share/B9ckedg7oMNB/coronacheck-usability-experience-test-versie-12-157/)
